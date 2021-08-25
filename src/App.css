@@ -1,0 +1,13 @@
+*root {
+  --light-green: #299;
+  --dark-green: #277;
+  }
+  * {
+    font-family: 'Lato', sans-serif;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  h1{
+    font-family: 'Jura', serif;
+  }
